@@ -22,7 +22,7 @@ My research found that yes, a model can improve somewhat on the preselected data
 
 This classifier performed the best in the large scale prediction testing, with the best ration of true positives to false positives.
 
-![BestModel](bestmodel.png)
+![BestModel](bestModel.png)
 
 
 Other models performed strangely without a grid search to improve their parameters, including the random forest classifier.
