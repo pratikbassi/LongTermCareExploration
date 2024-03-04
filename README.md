@@ -35,6 +35,8 @@ This is a comparison of the large scale testing results between models.
 
 ![largeScaleResults](model_results.png)
 
+<img src="model_results.png" alt='large scale results' margin-bottom='50px'>
+
 #### Next steps
 My suggestions for next steps would be to apply some of these generated models to a larger, not preselected database of individuals. I think that making predictions on this set would yield interesting results and potentially help reduce the number of mailers needed to be sent out.
 
