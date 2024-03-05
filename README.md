@@ -6,10 +6,10 @@
 We are able to predict who purchases long term care insurance from a preselected group of flyer respondents.
 
 #### Rationale
-A working model would help optimize marketing to customers, reducing the cost of each sale. This could result in lower premiums for customers and more profits for the companies using this model.
+A working model would help optimize marketing to customers, reducing the business cost of each sale. This could result in lower premiums for customers and more profits for the companies using this model.
 
 #### Research Question
-Is there a pattern that a machine learning model can find in long term care life insurance respondents?
+Is there a pattern that a machine learning model can find in long term care insurance respondents that determines whether or not they will purchase long term care insurance?
 
 #### Data Sources
 The data comes from a private company that sends out life insurance flyers to customers. The data contains several dozen fields, and is loaded into an oracle database.
